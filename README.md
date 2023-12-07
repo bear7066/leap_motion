@@ -11,3 +11,5 @@
 [leap_js](https://github.com/leapmotion)
 
 [leap_motion for developers](https://developer.leapmotion.com)
+
+[leap_motion api for website navigation](https://github.com/waseda/Leap-Motion-JS-API-for-Website-Navigation)
