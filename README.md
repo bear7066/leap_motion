@@ -2,7 +2,7 @@
 
 ## # Developing Steps
 1. Test if leap_motion device can use.
-2. Build a program with basic controls.
+2. Build a program with basic controls. (In progress)
 3. Add control function to final presentation.
 
 ### References
